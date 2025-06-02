@@ -1,0 +1,70 @@
+{
+    "title1_hero": "Hi, I'm ",
+    "title2_hero": "Miriam", 
+    "title3_hero": "Belda",
+    "descripction_hero": "I dedicate myself to researching and enjoying what I am passionate about, such as computing or art in all its forms.",
+    "btn_hero_view": "View My Work", 
+    "scroll": "Scroll",
+
+
+    "title1_about": "About", 
+    "title2_about": " Me", 
+    "h3_about": "Passionate Web Developer & IT student ", 
+    "p1_about": "I like programming and I enjoy facing new challenges, looking for solutions and learning in the process. Technology motivates me to continue exploring, whether developing personal projects or simply trying new ideas.",
+    "p2": "I am currently studying DAW and I really want to continue training. I am interested in staying up to date with new technologies and continuing to grow both technically and personally.",
+    "btn_getInTouch": "Get In Touch", 
+    "btn_CV": "Download CV", 
+    "h4_1_about": "Web Development", 
+    "p_1_about": "I am interested in both frontend and backend development, with the aim of training as a fullstack developer. I enjoy creating functional web sites and applications, combining design, logic and good coding practices.", 
+    "h4_2_about": "Motivations",
+    "p_2_about": "I am passionate about technology and I am always exploring new ideas, tools and ways to learn. I am motivated to understand how things work and give them a life of their own.",
+    "h4_3_about": "Studies", 
+    "p_3_about": "I studied Microcomputer Systems and Networks (SMR) and am currently studying Web Application Development (DAW). I continue training to dedicate myself to what I like.",
+
+
+    "title1_skills": "My ",
+    "title2_skills": " Skills",
+    "all": "All",
+    "db": "DB",
+    "tools": "tools",
+
+
+    "title1_projects": "Featured ",
+    "title2_projects": " Projects", 
+    "descripction_projects": "These projects reflect my creative and technical approach in solving real problems, combining functional design with effective solutions.",
+    "btn_projects": "Check My GitHub",
+    
+    "pr1_title": "Online Artisanal Coffee Store",
+    "pr1_descr": "A minimalist and elegant website for selling coffee, focused on user experience, natural aesthetics and fluid navigation from selection to payment.",
+    "pr2_title": "Vibra – Functional music player",
+    "pr2_descr": "An intuitive music streaming app with custom playlists, dynamic controls, and a responsive design that vibrates to the user's rhythm. ",
+    "pr3_title": "Data Dashboard",
+    "pr3_descr": "Visual dashboard with interactive charts and smart filters to explore data in real time, ideal for quick analysis and clear presentations.",
+    
+    
+    "title_contact_not": "Message sent!",
+    "desc_contact_not": "Thank you for your message. I'll get back to you soon.",
+    "title1_contact": "Get in ",
+    "title2_contact": " Touch", 
+    "descripction_contact": "If you have something in mind, get in touch. I am open to collaborating on innovative and challenging ideas. If you are looking for someone who brings commitment, technical vision and a strategic approach, I would be happy to ,hear from you.",
+    
+    "h3_contact": "Contact Information",
+    "h4_phone": "Phone",
+    "h4_location": "Location",
+    "a_location": "Villena, Alicante (Spain)",
+    "h4_rrss": "Contact With Me",
+    "form_name": "Name",
+    "form_message": "Message",
+    "send_message": "Send Message",
+    "sending_message": "Sending",
+    
+    
+    "p_footer": "Miriam, All rights reserved.",
+    
+    
+    "nav_home": "Home",
+    "nav_about": "About",
+    "nav_skills": "Skills",
+    "nav_projects": "Projects",
+    "nav_contact": "Contact"
+}
